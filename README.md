@@ -1,4 +1,4 @@
-# Azure Infrastructure Deployment with Terraform
+# Terraform – Infrastructure as Code (IaC)
 
 ## Project Overview
 
