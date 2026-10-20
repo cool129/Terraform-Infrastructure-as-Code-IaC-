@@ -29,3 +29,7 @@ terraform.tfvars
 # OS-specific
 .DS_Store
 Thumbs.db
+*.tfstate
+*.tfstate.*
+errored.tfstate
+.terraform/
