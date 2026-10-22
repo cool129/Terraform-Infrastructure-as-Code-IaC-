@@ -1,4 +1,4 @@
-# Terraform – Infrastructure as Code (IaC
+# Terraform – Infrastructure as Code (IaC)
 
 ## Project Overview
 
